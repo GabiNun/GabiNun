@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Gabi
 
-<!--
-**GabiNun/GabiNun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **PowerShell Developer | Automation Enthusiast | Scripter**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ About Me
+- Passionate about automating everything with PowerShell
+- Experienced in Windows administration
+- Love writing clean, reusable scripts
+- Always exploring new ways to simplify complex tasks
+
+---
+
+### 🛠️ Featured Projects
+| Project | Description | Link |
+|----------|--------------|------|
+| 🔹 **Scripts** | Debloat Windows In Seconds | [View Repo](https://github.com/GabiNun/Scripts) |
+| 🔹 **Minecraft-Launcher** | Launch the lastest version of minecraft without the gui | [View Repo](https://github.com/GabiNun/Minecraft-Launcher) |
+
+---
+
+### 📈 GitHub Stats
+![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabinun&show_icons=true&theme=tokyonight)
+
+---
