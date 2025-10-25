@@ -16,7 +16,7 @@
 | Project | Description | Link |
 |----------|--------------|------|
 | 🔹 **Scripts** | Debloat Windows In Seconds | [View Repo](https://github.com/GabiNun/Scripts) |
-| 🔹 **Minecraft-Launcher** | Launch the lastest version of minecraft without the gui | [View Repo](https://github.com/GabiNun/Minecraft-Launcher) |
+| 🔹 **Minecraft-Launcher** | Launch the lastest version of minecraft without a gui | [View Repo](https://github.com/GabiNun/Minecraft-Launcher) |
 
 ---
 
