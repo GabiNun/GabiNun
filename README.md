@@ -7,7 +7,6 @@
 ### ⚡ About Me
 - Passionate about automating everything with PowerShell
 - Experienced in Windows administration
-- Love writing clean, reusable scripts
 - Always exploring new ways to simplify complex tasks
 
 ---
